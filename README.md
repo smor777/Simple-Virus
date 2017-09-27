@@ -1,5 +1,5 @@
 # Simple-Virus
-A small harmless "virus" for the purpose of education. Not harm is intended.
+A small harmless "virus" for the purpose of education. No harm is intended.
 Initial Release. Nothing more. To Kill:
 1. Open Task Manager
 2. Find Virus4Log.exe
