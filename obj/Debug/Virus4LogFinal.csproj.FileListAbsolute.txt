@@ -1,0 +1,9 @@
+d:\data\documents\visual studio 2017\Projects\Virus4LogFinal\Virus4LogFinal\bin\Debug\Virus4LogFinal.exe.config
+d:\data\documents\visual studio 2017\Projects\Virus4LogFinal\Virus4LogFinal\bin\Debug\Virus4LogFinal.exe
+d:\data\documents\visual studio 2017\Projects\Virus4LogFinal\Virus4LogFinal\bin\Debug\Virus4LogFinal.pdb
+d:\data\documents\visual studio 2017\Projects\Virus4LogFinal\Virus4LogFinal\obj\Debug\Virus4LogFinal.csprojResolveAssemblyReference.cache
+d:\data\documents\visual studio 2017\Projects\Virus4LogFinal\Virus4LogFinal\obj\Debug\Virus4LogFinal.Form1.resources
+d:\data\documents\visual studio 2017\Projects\Virus4LogFinal\Virus4LogFinal\obj\Debug\Virus4LogFinal.Properties.Resources.resources
+d:\data\documents\visual studio 2017\Projects\Virus4LogFinal\Virus4LogFinal\obj\Debug\Virus4LogFinal.csproj.GenerateResource.Cache
+d:\data\documents\visual studio 2017\Projects\Virus4LogFinal\Virus4LogFinal\obj\Debug\Virus4LogFinal.exe
+d:\data\documents\visual studio 2017\Projects\Virus4LogFinal\Virus4LogFinal\obj\Debug\Virus4LogFinal.pdb
