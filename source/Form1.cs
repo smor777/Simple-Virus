@@ -12,6 +12,7 @@ namespace Virus4LogFinal
 {
     public partial class Form1 : Form
     {
+        //Note: This is where the virus actually is working. Not doing anything more than constantly putting a message box. HARMLESS I PROMISE
         public Form1()
         {
             InitializeComponent();
