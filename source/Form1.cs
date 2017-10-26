@@ -38,5 +38,9 @@ namespace Virus4LogFinal
             Environment.Exit(-1);
                
         }
+        public delegate void KeyPressEventHandler(object sender, KeyPressEventArgs e) {
+        keypress = KeyEventArgs.k;
+
+        }
     }
 }

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.16
+VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virus4LogFinal", "Virus4LogFinal\Virus4LogFinal.csproj", "{5627FB66-8803-4DF7-AAE5-2D96B66FA135}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple-Virus", "Simple-Virus.csproj", "{5627FB66-8803-4DF7-AAE5-2D96B66FA135}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

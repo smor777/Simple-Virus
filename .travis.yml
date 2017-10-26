@@ -1,0 +1,6 @@
+language: csharp
+solution: Virus4Log.sln
+rvm:
+ - 2.2
+ - jruby
+ - rbx-2
