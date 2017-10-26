@@ -1,4 +1,5 @@
-# Simple-Virus
+# Simple-Virus 
+https://travis-ci.org/smor777/Simple-Virus.svg?branch=master
 A small harmless "virus" for the purpose of education. No harm is intended. Opening will not cause any damage. 
 Initial Release. Nothing more. If opened and you wanted to kill it:
 1. Open Task Manager
