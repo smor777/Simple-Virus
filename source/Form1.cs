@@ -18,7 +18,7 @@ namespace Virus4LogFinal
             InitializeComponent();
             while (1 > 0)
             {
-                MessageBox.Show("You have been infected with a Virus!");
+                MessageBox.Show("Games take time to develop...they aren't something you can do in a day!");
                 
             }
         }
